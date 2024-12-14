@@ -21,7 +21,7 @@
 - **`git remote -v`**: Listet alle Remote-Repositories auf.
 - **`git remote add <name> <url>`**: Fügt ein neues Remote-Repository hinzu.
 - **`git remote remove <name>`**: Entfernt ein Remote-Repository.
-- **`git push <remote> <branch>`**: Überträgt lokale Commits zu einem Remote-Repository.
+- **`git push <remote> <branch>`**: Überträgt lokale Commits zu einem Remote-Repository und den entsprechenden Remote Branch.
 - **`git pull <remote> <branch>`**: Holt Änderungen von einem Remote-Repository und integriert sie in den aktuellen Branch.
 
 #### Änderungen anzeigen
