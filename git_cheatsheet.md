@@ -44,8 +44,8 @@
 - **`git merge`**: Integriert die Änderungen in den Arbeitsbereich. `git fetch` und `git merge` machen zusammen das selbe wie git pull 
 
 ## Schnellablauf:
-`git init`
-`git add .`
-`git commit -m "meine Änderung"`
-`git add remote add origin https://github.com/benutzername/repository-name.git`
+`git init` <br>
+`git add .`<br>
+`git commit -m "meine Änderung"`<br>
+`git add remote add origin https://github.com/benutzername/repository-name.git`<br>
 `git push -u origin main` - oder --set-upstream verknüpft lokalen branch main mit remote branch origin/main. Dann ist keine Angabe von branch oder remote mehr notwendig.
